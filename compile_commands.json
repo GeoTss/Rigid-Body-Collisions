@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/giorgostsorakos/Documents/C++ SDL2 Tests/Physics Proj/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/opt/homebrew/Cellar/../include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -stdlib=libc++ -lc++abi -v -std=gnu++20 -o CMakeFiles/main.dir/Users/giorgostsorakos/Documents/C++_SDL2_Tests/Physics_Proj/main.cpp.o -c \"/Users/giorgostsorakos/Documents/C++ SDL2 Tests/Physics Proj/main.cpp\"",
+  "file": "/Users/giorgostsorakos/Documents/C++ SDL2 Tests/Physics Proj/main.cpp"
+}
+]
