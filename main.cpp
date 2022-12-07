@@ -14,7 +14,6 @@
 #include "SDL2/SDL_timer.h"
 #include "SDL2/SDL_video.h"
 #include "Vector2f.hpp"
-#include <arm_neon.h>
 
 #define PARTICLE_NUM 6
 #define PI 3.14159265359
